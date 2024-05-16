@@ -4,14 +4,9 @@ import java.util.*;
 
 public class HeapifyArray {
 
-    // Main method, which is the entry point for execution
-    public static void main(String[] args) {
-        createHeapArrays(7, 3, 1);
-    }
-
     // Executes the heap creation with specified number of nodes and difficulty
     public static List<List<Integer>> execute(int nodes, int difficulty){
-        return createHeapArrays(nodes, difficulty, 1);
+        return createHeapArrays(nodes, difficulty, 10);
     }
 
     // Generates heap arrays based on node count, difficulty, and required number of arrays
@@ -215,4 +210,5 @@ public class HeapifyArray {
             this.index = index;
         }
     }
+
 }

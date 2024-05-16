@@ -60,7 +60,7 @@
                   </grid>
                 </constraints>
                 <properties>
-                  <text value=""/>
+                  <text value="Sisendi täpsustused leiad: https://github.com/RennoSepp/sisendi_algoritmid"/>
                 </properties>
               </component>
               <component id="fac20" class="javax.swing.JLabel">
@@ -114,7 +114,7 @@
                   </grid>
                 </constraints>
                 <properties>
-                  <text value=""/>
+                  <text value="Sisendi täpsustused leiad: https://github.com/RennoSepp/sisendi_algoritmid"/>
                 </properties>
               </component>
               <component id="f97e1" class="javax.swing.JTextField" binding="removals_BST_removals">
@@ -195,7 +195,9 @@
                     <preferred-size width="150" height="50"/>
                   </grid>
                 </constraints>
-                <properties/>
+                <properties>
+                  <text value="Sisendi täpsustused leiad: https://github.com/RennoSepp/sisendi_algoritmid"/>
+                </properties>
               </component>
               <component id="e0fec" class="javax.swing.JTextField" binding="avl_additions_nodes">
                 <constraints>
@@ -268,7 +270,7 @@
                   </grid>
                 </constraints>
                 <properties>
-                  <text value=""/>
+                  <text value="Sisendi täpsustused leiad: https://github.com/RennoSepp/sisendi_algoritmid"/>
                 </properties>
               </component>
               <component id="7247f" class="javax.swing.JTextField" binding="AVL_remove_removals">
@@ -339,7 +341,9 @@
                     <preferred-size width="150" height="50"/>
                   </grid>
                 </constraints>
-                <properties/>
+                <properties>
+                  <text value="Sisendi täpsustused leiad: https://github.com/RennoSepp/sisendi_algoritmid"/>
+                </properties>
               </component>
               <component id="ab34f" class="javax.swing.JButton" binding="genereeriButton" default-binding="true">
                 <constraints>
@@ -409,7 +413,9 @@
                     <preferred-size width="150" height="50"/>
                   </grid>
                 </constraints>
-                <properties/>
+                <properties>
+                  <text value="Sisendi täpsustused leiad: https://github.com/RennoSepp/sisendi_algoritmid"/>
+                </properties>
               </component>
               <component id="a5c50" class="javax.swing.JLabel">
                 <constraints>

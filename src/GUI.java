@@ -53,7 +53,7 @@ public class GUI extends JFrame {
         genereeriButton.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent click) {
-                List<List<Integer>> answer = BSTArrayGenerator.execute(Integer.parseInt(tipud.getText()), Integer.parseInt(raskus.getText()));
+                List<List<Integer>> answer = HeapSort.execute(Integer.parseInt(tipud.getText()), Integer.parseInt(raskus.getText()));
                 StringBuilder response = new StringBuilder();
                 for (int i = 0; i < answer.size(); i++) {
                     response.append(answer.get(i)).append(" \n");

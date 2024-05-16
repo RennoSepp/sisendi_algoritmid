@@ -1,5 +1,7 @@
 package Generators;
 
+import org.w3c.dom.ls.LSOutput;
+
 import java.util.*;
 
 public class HeapSort {
@@ -131,6 +133,9 @@ public class HeapSort {
         int temp = list.get(i1);
         list.set(i1, list.get(i2));
         list.set(i2, temp);
+    }
+
+    public static void main(String[] args) {
     }
 
 }
