@@ -6,37 +6,37 @@ Programmi skoop on pakkuda lihtsat võimalust genereerida sisendeid kahendotsimi
 
 Elementide arv järjendis on otseselt seotud raskusparameetriga – alljärgnev suhe on soovitatav sisend
 
-Elementide arv		Raskusparameeter
+Elementide arv -> Raskusparameeter
 
-1				0
+1	-> 0
 
-2				1
+2	-> 1
 
-3				2-3
+3	-> 2-3
 
-4				4-6
+4 -> 4-6
 
-5				6-10
+5	-> 6-10
 
-6				8-15
+6	-> 8-15
 
-7				10-21
+7	-> 10-21
 
-8				13-28
+8	-> 13-28
 
-9				16-36
+9	-> 16-36
 
-10			19-45
+10 -> 19-45
 
-11			22-45
+11 -> 22-45
 
-12			25-45
+12 -> 25-45
 
-13			28-45
+13 -> 28-45
 
-14			35-60
+14 -> 35-60
 
-15			38-60
+15 -> 38-60
 
 ### Elementide eemaldamine kahendotsimispuust
 
@@ -67,35 +67,35 @@ Elementide arv järjendis on otseselt seotud raskusparameetriga – alljärgnev 
 
 Elementide arv		Raskusparameeter
 
-1				0
+1	-> 0
 
-2				1
+2	-> 1
 
-3				2-3
+3	-> 2-3
 
-4				4-5
+4	-> 4-5
 
-5				7-8
+5	-> 7-8
 
-6				8-11
+6	-> 8-11
 
-7				10-14
+7	-> 10-14
 
-8				13-17
+8	-> 13-17
 
-9				15-21
+9	-> 15-21
 
-10			19-25
+10 -> 19-25
 
-11			22-28
+11 -> 22-28
 
-12			23-33
+12 -> 23-33
 
-13			26-36
+13 -> 26-36
 
-14			29-41
+14 ->	29-41
 
-15			32-45
+15 -> 32-45
 
 ### Järjendi sorteerimine kuhjameetodil
 
@@ -103,34 +103,34 @@ Elementide arv järjendis on otseselt seotud raskusparameetriga – alljärgnev 
 
 Elementide arv		Raskusparameeter
 
-1				0
+1	-> 0
 
-2				1
+2	-> 1
 
-3				<3
+3	-> <3
 
-4				<4
+4	-> <4
 
-5				<4
+5	-> <4
 
-6				<5
+6	-> <5
 
-7				<5
+7	-> <5
 
-8				<8
+8	-> <8
 
-9				<8
+9	-> <8
 
-10			<9
+10 -> <9
 
-11			<9
+11 -> <9
 
-12			<11
+12 -> <11
 
-13			<11
+13 -> <11
 
-14			<12
+14 ->	<12
 
-15			<12
+15 ->	<12
 
 
